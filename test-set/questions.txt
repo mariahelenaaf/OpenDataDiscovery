@@ -1,0 +1,48 @@
+Quantas escolas rurais possuem computador
+Quantas famílias estão no cadUnico por cidade
+Quantos profissionais da Educação tem por cidade
+Qual a média de investimentos em educação por cidade
+Quantas famílias ciganas existem no cadunico por estado
+Quantas pessoas ciganas do cadunico frequentaram curso superior por ano no Brasil
+Quantas famílias ciganas receberam renda maior que 1000 reais por ano
+Quantidade de beneficiários do FIES por ano e curso
+Qual o total de estudantes participantes do PROUNI por universidade e ano
+Qual o total de estudantes com bolsa integral do Prouni por ano
+Quantos alunos cotistas desistiram de curso por ano
+Quantos alunos cotistas ingressaram no ensino superior por ano e estado, no turno noturno
+Quantos estudantes tem bolsa prouni por ano
+Instituições que ensino que ofertam bolsa prouni integral
+quantidade de bolsas integrais e parciais por município
+quantas universidades oferecem bolsas de estudo integrais e parciais por região
+renda familiar média dos beneficiários do prouni
+Quantidade de instituições públicas de ensino
+Quantidade de universidades estaduais por região
+Quantidade de alunos que fazem curso superior noturno por região
+Quantidade de alunos que ingressaram na universidade pelo vestibular
+Quantidade de cursos de licenciatura ofertados em universidade federais
+Carga horária mínima dos cursos à distância
+Quantidade de cursos de mestrado e doutorado ofertados por cidade
+Total de despesas com remuneração docente nas instituições por região
+Quantidade de alunos que ocupam auxílio moradia em universidades federais 
+Quantos professores possuem doutorado nas universidades privadas
+Quantidade de alunos matriculados em escolas de educação especial por região
+Quantidade de matrículas no ensino médio por escola
+Quantidade de escolas que possuem material didático para alunos indígenas
+Quantidade de alunos que utilizam ônibus como transporte escolar por cidade
+Quantidade de escolas por região que oferecem disciplinas em turno integral
+Quantas turmas participam do programa mais educação em localidades rurais por cidade
+Quantas escolas por região possuem turmas  exclusivas para alunos com deficiencia
+Quantidade de docentes que possuem magistério ou curso de complementação pedagógica por cidade
+Quais municípios possuem mais de 1000 famílias participantes do cadastro único
+Quantidade de pessoas de baixa renda que trabalharam nos ultimos meses por município 
+Renda média familiar das pessoas incluídas no Cadunico
+Valor médio recebido de aposentadoria por famílias de baixa renda
+Quantidade de famílias quilombolas que frequentam centro de assistência
+Quantidade de pessoas de baixa renda que concluíram curso superior
+Quantidade de famílias indígenas que recebem pensão alimentícia por região
+Total de financiamentos concedidos a universidades federais por cidade
+Percentual médio de financiamento solicitado por estudantes
+Valor médio da mensalidade dos cursos financiados
+Quantidade de universidades cadastradas no fies
+Quantidade de alunos por instituição que possuem financiamento e cursaram ensino médio em escola pública
+Número máximo de contratos de financiamento realizados por instituições de ensino
